@@ -1,0 +1,124 @@
+#
+# Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
+#
+
+sidebar:
+  about: False # NO MODIFICAR
+  education: False # NO MODIFICAR
+
+  # Profile information
+  name: Brandon Vadillo # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: escudo.png # No modificar
+
+  # Actualiza tus datos de contacto
+  email: bvadillo0@ucol.mx
+  phone: 3121683637
+  website: # No agregar http://
+  linkedin: brandonavg
+  github: BrandonVG
+  gitlab:
+  bitbucket:
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
+  languages:
+    - idiom: English
+      level: B2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: Spanish
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+  interests:
+    - item: Communication
+      link: # dejar en blanco
+
+    - item: Empathy
+      link: # dejar en blanco
+
+    - item: Team Work
+      link: # dejar en blanco
+
+    - item: Time Management
+      link: # dejar en blanco
+
+    - item: Problem Solving
+      link: # dejar en blanco
+
+# Registra aquí un resumen de tu perfil
+career-profile:
+  title: About Me # NO MODIFICAR
+  summary: |
+    I am a person interested in software development with the ability to learn quickly and work under pressure. I am always looking forwards to improving and giving it my best.
+# Registra aquí tus estudios. Agrega o elimina según sea necesario
+educationcomplete:
+  - degree: Software Engineering
+    university: Universidad de Colima
+    time: 2019 - Present
+    details: |
+
+# Registra aquí tu experiencia. Agrega o elimina según sea necesario
+experiences:
+  - role: BrightCoders 
+    time: Nov 2021 - March 2022
+    company: BrightCoders, Colima
+    details: |
+      I learned in BrightCoders web development with Ruby language and framework Ruby on Rails.
+
+# Registra aquí tus habilidades técnicas, para level utiliza:
+# 20% para Novice
+# 40% para Advanced beginner
+# 60% para Competent
+# 80% para Proficient
+# 100% para Expert
+skills:
+  title: Technical Skills # NO MODIFICAR
+
+  toolset:
+
+    - name: HTML
+      level: 80%
+
+    - name: JavaScript
+      level: 80%
+
+    - name: Ruby on Rails
+      level: 70%
+
+    - name: CSS
+      level: 70%
+
+    - name: Git
+      level: 70%
+
+    - name: Ruby
+      level: 60%
+
+    - name: SQL
+      level: 70%
+
+    - name: C#
+      level: 55%
+
+    - name: NodeJs
+      level: 40%
+
+    - name: C/C++
+      level: 40%
+
+    - name: PHP
+      level: 40%
+
+    - name: Python
+      level: 20%
+
+    - name: Fluter
+      level: 20%
+
+# NO MODIFICAR
+footer: >
+  BrightCoders for a brighter future!
